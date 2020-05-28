@@ -103,6 +103,53 @@ class _HomeState extends State<Home> {
           CallsScreen(),
           ],
         ),
+        floatingActionButton: Builder(
+          builder: (BuildContext context){
+            int i=DefaultTabController.of(context).index;
+            if(i==1){
+            return FloatingActionButton(
+                shape: StadiumBorder(),
+                onPressed: null,
+                backgroundColor: Color(0xff25D366),
+                child: Icon(
+                  Icons.chat,
+                  size: 30.0,
+                  color: Colors.white,
+                )
+            );}
+            else if(i==2){
+              return FloatingActionButton(
+                  shape: StadiumBorder(),
+                  onPressed: null,
+                  backgroundColor: Color(0xff25D366),
+                  child: Icon(
+                    Icons.chat,
+                    size: 30.0,
+                    color: Colors.white,
+                  )
+              );}
+            else if(i==3){
+              return FloatingActionButton(
+                  shape: StadiumBorder(),
+                  onPressed: null,
+                  backgroundColor: Color(0xff25D366),
+                  child: Icon(
+                    Icons.add_call,
+                    size: 30.0,
+                    color: Colors.white,
+                  ));}
+            else {
+              return FloatingActionButton(
+                  shape: StadiumBorder(),
+                  onPressed: null,
+                  backgroundColor: Color(0xff25D366),
+                  child: Icon(
+                    Icons.camera_alt,
+                    size: 30.0,
+                    color: Colors.white,
+                  ));}
+          },
+        ),
       ),
     );
   }
