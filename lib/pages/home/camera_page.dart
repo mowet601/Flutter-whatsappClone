@@ -3,12 +3,13 @@ class CameraPage extends StatefulWidget {
   @override
   _CameraPageState createState() => _CameraPageState();
 }
+
 class _CameraPageState extends State<CameraPage> {
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Text(
-          "ASD"
+    return Container(
+      child: Center(
+        child: Icon(Icons.camera_alt),
       ),
     );
   }

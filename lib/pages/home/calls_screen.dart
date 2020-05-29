@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:whattsappclone/model/chat_model.dart';
-import 'package:whattsappclone/pages/chats/chats.dart';
 class CallsScreen extends StatelessWidget {
   final List<ChatListItem> chatListItems = DummyList().chatListItems;
 
@@ -21,16 +20,7 @@ class CallsScreen extends StatelessWidget {
             backgroundColor: Colors.black12,
             child: Icon(Icons.person,color: Colors.white,size: 30,),
           ),
-          onTap: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => Chats(
-                  ///person: chatListItems[i],
-                ),
-              ),
-            );
-          },
+          onTap: null,
         );
       },
     );
