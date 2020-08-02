@@ -5,6 +5,7 @@ AN ANDROID APP MADE USING FLUTTER. THIS APP IS THE UI CLONE OF A VERY POPULAR AP
 # SCREENSHOTS
 
 ## Splash Screen
+<img src="Screenshots/splash.jpg" height=100>
 ![Splash Screen](Screenshots/splash.jpg)
 
 ## Chats Screen
