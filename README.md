@@ -5,17 +5,17 @@ AN ANDROID APP MADE USING FLUTTER. THIS APP IS THE UI CLONE OF A VERY POPULAR AP
 # SCREENSHOTS
 
 ## Splash Screen
-<img src="Screenshots/splash.jpg" height=100>
-![Splash Screen](Screenshots/splash.jpg)
+<img src="Screenshots/splash.jpg" height=300/>
 
 ## Chats Screen
-![Chats Screen](Screenshots/1.jpg)
+<img src="Screenshots/1.jpg" height=300/>
 
 ## Status Screen
-![Status Screen](Screenshots/2.jpg)
+<img src="Screenshots/2.jpg" height=300/>
 
 ## Calls Screen
-![Calls Screen](Screenshots/3.jpg)
+<img src="Screenshots/3.jpg" height=300/>
+
 
 # VIDEO TOUR
 ### Click below to play the tour
