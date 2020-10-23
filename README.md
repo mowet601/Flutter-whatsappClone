@@ -18,5 +18,5 @@ AN ANDROID APP MADE USING FLUTTER. THIS APP IS THE UI CLONE OF A VERY POPULAR AP
 
 
 # VIDEO TOUR
-### Click below to play the tour
+### Click below to play the tour video
 [![Watch the video](https://i9.ytimg.com/vi/iYfnVb7vyv8/mqdefault.jpg?time=1596389700000&sqp=CMTym_kF&rs=AOn4CLAD6kjpF0WiV9JypvlpYjPjFsXWpw)](https://youtu.be/iYfnVb7vyv8)
